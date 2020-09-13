@@ -13,7 +13,7 @@ USTC 18 计算机学院 特别资源分享
 
 计算方法编程作业
 
-计算机组成原理实验
+计算机组成原理实验(https://github.com/USTCqzy/COD_2020_Labs.git)
 
 
 
