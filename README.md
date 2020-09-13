@@ -7,9 +7,9 @@ USTC 18 计算机学院 特别资源分享
 
 以下几门含代码的科目可参见其他库：
 
-计算机系统概论 (H) 实验
+计算机系统概论 (H) 实验(https://github.com/USTCqzy/ICS_2019_Labs.git)
 
-数据结构实验(https://github.com/USTCqzy/ICS_2019_Labs.git)
+数据结构实验(https://github.com/USTCqzy/Data_Structures_2019_Labs.git)
 
 计算方法编程作业(https://github.com/USTCqzy/Numerical_Analysis_2020_Labs.git)
 
