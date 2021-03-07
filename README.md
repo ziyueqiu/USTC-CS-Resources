@@ -17,3 +17,5 @@ USTC 18 计算机学院 特别资源分享
 
 算法基础实验(https://github.com/USTCqzy/Foundations_of_Algorithms_2020_Labs.git)
 
+计算机网络实验(https://github.com/USTCqzy/Computer_Networks_DNS_Relay_Lab.git)
+
