@@ -15,5 +15,5 @@ USTC 18 计算机学院 特别资源分享
 
 计算机组成原理实验(https://github.com/USTCqzy/COD_2020_Labs.git)
 
-
+算法基础实验(https://github.com/USTCqzy/Foundations_of_Algorithms_2020_Labs.git)
 
